@@ -1,0 +1,147 @@
+*
+{
+margin:auto;
+}
+html , body
+{ 
+    height: 100%    
+}
+
+.img1
+{
+margin-top:10px;
+border-left:1px solid #000000; 
+border-right:1px solid #000000;
+border-bottom:1px solid #000000;
+border-top:1px solid #000000;
+border-radius: 10px;
+text align:center;
+width:150px;
+}
+
+header
+{
+display:inline-block;
+text-align: center;
+width:700px;
+background-image:url(/Project-test/Project-test/images/Capture%20d%E2%80%99%C3%A9cran%202014-12-14%20%C3%A0%2016.14.50.png);
+border-left:1px solid #000000;
+border-right:1px solid #000000;
+border-bottom:1px solid #000000;
+border-top:1px solid #000000;
+border-radius: 10px;
+padding-bottom:20px;
+padding-top:20px;
+}
+
+p
+{
+text-shadow:0px 1px #ff0000;
+text-align:center;
+}
+
+header li
+{
+display:inline-block
+}
+
+.img2
+{
+margin-top: 50px;
+height:350px;
+border-radius:50px;
+}
+
+#cv
+{
+font-family:fantasy;
+color:black;
+margin-right:40px;
+display:block;
+}
+
+#cv1
+{
+margin:5px;
+text-transform: capitalize
+}
+body h4
+{
+font-size:20px;
+text-decoration:underline;   
+}
+    
+h1
+{
+text-shadow:2px 2px #ff0000;
+text-align: center;
+font-family:fantasy;
+}
+h2
+{
+text-shadow:1px 1px #ff0000;
+font-family:fantasy;
+text-align:center;
+}
+
+body 
+{
+
+border-left:1px solid #000000; 
+border-right:1px solid #000000;
+border-bottom:1px solid #000000;
+border-top:1px solid #000000;
+width:800px;
+color:black;
+background-image:url(images/178b6a201834aec68bd56a7f9f05b09f_large.jpg);
+background-size:1500px;
+text-align: center;
+}    
+p
+{
+margin-left: 150px;
+margin-right:150px;
+margin-top:20px;
+text-align: center;
+color:black;
+font-family:fantasy;
+}
+.Pepito
+{
+font-size:20px;  
+}
+
+nav a
+
+{
+padding: 4px 10px;
+border-radius:5px;
+text-decoration: none;
+font-family: serif;
+color:#00BFFF;
+background-color: black; 
+}
+
+footer
+{
+width:700px;
+padding:10px;
+background-color:black; 
+border-radius: 10px;
+padding-top: 20px;
+padding-bottom: 20px;
+position: fixed;    
+bottom: 0;
+margin-left:40px
+}
+footer a
+{
+text-align: center;
+margin:50px;
+}
+
+footer img
+{
+border-radius:15px;
+}
+    
